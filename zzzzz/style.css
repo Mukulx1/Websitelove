@@ -1,0 +1,70 @@
+*{
+    text-align: center;
+    margin: 0cm;
+    padding: 0cm;
+    font-family: 'Playfair Display', serif;
+}
+
+#top{
+    background-color: #e3e1dd;
+}
+#bot{
+    background-color: #e3e1dd;
+    padding: 0.5cm;
+    
+}
+#bot p{
+    background-color: white;
+}
+
+
+
+
+
+/* --------images-------- */
+img{
+    width: 100%;
+}
+.small-img{
+    width: 30%;
+    margin-top: 1cm;
+}
+#mountains{
+    position: relative;
+    margin-top: -90px;
+}
+/* --------images-------- */
+
+p{
+    width: 55%;
+    margin: 0cm auto;
+    background-color: #e3e1dd;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+hr{
+    border: dotted black 4px;
+    border-bottom: none;
+    width: 10%;
+    margin: 0.5cm auto;
+}
+h2{
+    margin: 0.1cm auto;
+}
+button{
+    margin: 0.5cm auto;
+    padding: 4px;
+    background-color: #e3e1dd;
+    color: black;
+    
+
+
+}
+h3{
+    margin-bottom: 0.2cm;
+}
+
+
+
+
